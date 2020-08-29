@@ -1,0 +1,8 @@
+Origin: Ethan Jansen Public Repository
+Label: Ethan Jansen Public Repository
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Ethan Jansen Public Repository --- including initial tests
