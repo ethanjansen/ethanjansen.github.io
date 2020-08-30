@@ -1,8 +1,8 @@
 #!/bin/bash
 cd ~/Desktop/github/ethanjansen.github.io/
 
-bzip2 -f Packages > Packages.bz2
-gzip -f Packages > Packages.gz
+bzip2 -fk Packages > Packages.bz2
+gzip -fk Packages > Packages.gz
 
 git add --all
 git commit -m "Added TestModule"
