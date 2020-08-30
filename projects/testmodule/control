@@ -1,0 +1,9 @@
+Package: com.ethanjansen.testmodule
+Name: TestModule
+Depends: mobilesubstrate, firmware (>= 11.0), com.opa334.ccsupport
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Control Center module
+Maintainer: Ethan Jansen
+Author: Ethan Jansen
+Section: Control Center (Modules)
