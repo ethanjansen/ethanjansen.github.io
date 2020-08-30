@@ -9,6 +9,6 @@ Section: Control Center (Modules)
 Depends: mobilesubstrate, firmware (>= 11.0), com.opa334.ccsupport
 Filename: debs/com.ethanjansen.testmodule_0.0.1-3+debug_iphoneos-arm.deb
 Size: 6988
-MD5sum: e0e1bcb97e6cf155417fc10e2b26df8d
-SHA1: d97c9b1ee3e1af0baccae2251b63b126bc91f45d
-SHA256: a14f4ad9fcb4be9d57d703414dfaee212e9c801f5c8c6836ff77e456756ac071
+MD5sum: 1a75034284e104050f6727607c7fe330
+SHA1: 3ef6850bdbdb8eceac5c686fceed54014bc0b888
+SHA256: 413e42eb6b1f1e2bdebbb8a4bba68a3cd204ad4101e0c98fca43d12b807355a0
