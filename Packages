@@ -1,6 +1,6 @@
 Package: com.ethanjansen.testmodule
 Name: TestModule
-Version: 0.0.2
+Version: 0.0.1
 Architecture: iphoneos-arm
 Description: A Test Module for initial Modulus development
 Maintainer: Ethan Jansen <ethanjansen69@gmail.com>
