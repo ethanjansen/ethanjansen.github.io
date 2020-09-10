@@ -34,6 +34,6 @@ Description: A Preference Bundle for initial Modulus development
 Maintainer: Ethan Jansen <ethanjansen69@gmail.com>
 Author: Ethan Jansen <ethanjansen69@gmail.com>
 Section: Preference Bundles
-Filename: debs/com.ethanjansen.modulusprefs_0.0.6-1+debug_iphoneos-arm.deb
+Filename: debs/com.ethanjansen.modulusprefs_0.0.7-1+debug_iphoneos-arm.deb
 Size: 16076
 MD5sum: 73a71ca2b0cc7aa835f76a20efab38b0
