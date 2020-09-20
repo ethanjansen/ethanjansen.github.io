@@ -28,12 +28,12 @@ MD5sum: 64743b3126fe12c76aa90661612eb591
 
 Package: com.ethanjansen.modulusprefs
 Name: Modulus Preference Bundle
-Version: 0.3.2
+Version: 0.3.3
 Architecture: iphoneos-arm
 Description: A Preference Bundle for initial Modulus development
 Maintainer: Ethan Jansen <ethanjansen69@gmail.com>
 Author: Ethan Jansen <ethanjansen69@gmail.com>
 Section: Preference Bundles
-Filename: debs/com.ethanjansen.modulusprefs_0.3.2-1+debug_iphoneos-arm.deb
-Size: 25394
-MD5sum: c68882e4e15d3b8c7c28656f62adeb5d
+Filename: debs/com.ethanjansen.modulusprefs_0.3.3-1+debug_iphoneos-arm.deb
+Size: 24376
+MD5sum: 8e1b6eddf6ae4bc98ca18d24a13c1e9b
